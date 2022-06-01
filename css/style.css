@@ -1,0 +1,31 @@
+h1 {
+  color: fuchsia;
+  font-size:30px;
+}
+.location {
+  display: flex;
+  justify-content: center;
+  border: solid black 5px;
+  margin: 12px; 
+  padding: 30px;
+}
+.input{
+ display:flex;
+ justify-content: center;
+}
+
+body{
+  background-image: url('https://images.ctfassets.net/hrltx12pl8hq/6TIZLa1AKeBel0yVO7ReIn/1fc0e2fd9fcc6d66b3cc733aa2547e11/weather-images.jpg?fit=fill&w=800&h=300');
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  background-size: cover;
+}
+hr{
+  height: 5px;
+  background-color: black;
+  border: black: 
+}
+.box {
+  display:flex;
+ justify-content: center;
+}
