@@ -23,9 +23,13 @@ body{
 hr{
   height: 5px;
   background-color: black;
-  border: black: 
+  border: black; 
 }
-.box {
+.img {
   display:flex;
  justify-content: center;
+}
+.results {
+  display: flex;
+  justify-content: space-around;
 }
